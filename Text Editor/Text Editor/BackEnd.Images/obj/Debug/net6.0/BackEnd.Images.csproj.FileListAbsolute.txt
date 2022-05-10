@@ -1,0 +1,15 @@
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\bin\Debug\net6.0\BackEnd.Images.exe
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\bin\Debug\net6.0\BackEnd.Images.deps.json
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\bin\Debug\net6.0\BackEnd.Images.runtimeconfig.json
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\bin\Debug\net6.0\BackEnd.Images.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\bin\Debug\net6.0\ref\BackEnd.Images.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\bin\Debug\net6.0\BackEnd.Images.pdb
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.csproj.AssemblyReference.cache
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.GeneratedMSBuildEditorConfig.editorconfig
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.AssemblyInfoInputs.cache
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.AssemblyInfo.cs
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.csproj.CoreCompileInputs.cache
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\ref\BackEnd.Images.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.pdb
+B:\Admin\home\Text Editor\Text Editor\BackEnd.Images\obj\Debug\net6.0\BackEnd.Images.genruntimeconfig.cache

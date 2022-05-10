@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f13217e8-3d97-4448-aaa6-538cba47c60b": {
+      "ProjectGuid": "f13217e8-3d97-4448-aaa6-538cba47c60b",
+      "DisplayName": "TextEditor.FrontEnd",
+      "ColorIndex": 0
+    },
+    "65277547-c665-4c91-af99-df6a58a9c967": {
+      "ProjectGuid": "65277547-c665-4c91-af99-df6a58a9c967",
+      "DisplayName": "BackEnd.File",
+      "ColorIndex": 1
+    },
+    "9ad1eeec-f5e4-4d59-ab4d-303e09dc59ec": {
+      "ProjectGuid": "9ad1eeec-f5e4-4d59-ab4d-303e09dc59ec",
+      "DisplayName": "BackEnd.Text",
+      "ColorIndex": 2
+    },
+    "91d8d039-3a56-45a9-b554-1d3233e040a5": {
+      "ProjectGuid": "91d8d039-3a56-45a9-b554-1d3233e040a5",
+      "DisplayName": "BackEnd.Images",
+      "ColorIndex": 3
+    },
+    "779b4d8c-f989-41ad-880d-7b1500f36368": {
+      "ProjectGuid": "779b4d8c-f989-41ad-880d-7b1500f36368",
+      "DisplayName": "BackEnd.Styles",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

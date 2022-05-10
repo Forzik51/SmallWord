@@ -1,0 +1,15 @@
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\bin\Debug\net6.0\BackEnd.File.exe
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\bin\Debug\net6.0\BackEnd.File.deps.json
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\bin\Debug\net6.0\BackEnd.File.runtimeconfig.json
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\bin\Debug\net6.0\BackEnd.File.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\bin\Debug\net6.0\ref\BackEnd.File.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\bin\Debug\net6.0\BackEnd.File.pdb
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.csproj.AssemblyReference.cache
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.GeneratedMSBuildEditorConfig.editorconfig
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.AssemblyInfoInputs.cache
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.AssemblyInfo.cs
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.csproj.CoreCompileInputs.cache
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\ref\BackEnd.File.dll
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.pdb
+B:\Admin\home\Text Editor\Text Editor\BackEnd.File\obj\Debug\net6.0\BackEnd.File.genruntimeconfig.cache
