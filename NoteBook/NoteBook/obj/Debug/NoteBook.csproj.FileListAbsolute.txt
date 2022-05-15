@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.DownLoad.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.MainMenu.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.New.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.WorkZone.resources
