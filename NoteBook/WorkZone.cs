@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -30,7 +31,7 @@ namespace NoteBook
             //foreach(char c in richTextBox1.SelectedText)
             //    if(c.ToString(). == FontStyle.Bold)
             //if(richTextBox1.SelectionFont( x => x.) != FontStyle.Bold)
-            richTextBox1.SelectionFont = new Font(richTextBox1.Font,
+            richTextBox1.SelectionFont = new Font(richTextBox1.SelectionFont,
             richTextBox1.SelectionFont.Style ^ FontStyle.Bold);
         }
         private void button2_Click(object sender, EventArgs e)
@@ -55,7 +56,7 @@ namespace NoteBook
             
            if (richTextBox1.SelectionLength > 0)
             {
-                richTextBox1.SelectionFont = new Font(richTextBox1.Font.Name, float.Parse(comboBox2.Text));
+                richTextBox1.SelectionFont = new Font(richTextBox1.SelectionFont.FontFamily, float.Parse(comboBox2.Text));
 
             }
         }
@@ -64,7 +65,7 @@ namespace NoteBook
         {
             if (richTextBox1.SelectionLength > 0)
             {
-                richTextBox1.SelectionFont = new Font(new FontFamily(comboBox1.Text), richTextBox1.Font.Size);
+                richTextBox1.SelectionFont = new Font(new FontFamily(comboBox1.Text), richTextBox1.SelectionFont.Size);
 
             }
         }
@@ -86,8 +87,11 @@ namespace NoteBook
 
         private void button10_Click(object sender, EventArgs e)
         {
-            
-            //richTextBox1.SelectedText = Ho
+
+            if (richTextBox1.RightToLeft == RightToLeft.No)
+                richTextBox1.RightToLeft = RightToLeft.Yes; 
+            else
+                richTextBox1.RightToLeft = RightToLeft.No;
         }
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
@@ -98,9 +102,100 @@ namespace NoteBook
                 if (wordstartIndex != -1)
                 {
                     richTextBox1.Select(wordstartIndex, textBox1.Text.Length);
-                    richTextBox1.SelectionBackColor = Color.Yellow;
+                    richTextBox1.SelectionStart = wordstartIndex;
+                    richTextBox1.Focus();
                 }
             }
+        }
+
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ColorDialog MyDialog = new ColorDialog();
+            MyDialog.AllowFullOpen = false;
+            MyDialog.ShowHelp = true;
+            MyDialog.Color = textBox1.ForeColor;
+
+            // Update the text box color if the user clicks OK 
+            if (MyDialog.ShowDialog() == DialogResult.OK)
+                richTextBox1.SelectionBackColor = MyDialog.Color;
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            ColorDialog MyDialog = new ColorDialog();
+            MyDialog.AllowFullOpen = false;
+            MyDialog.ShowHelp = true;
+            MyDialog.Color = textBox1.ForeColor;
+
+            // Update the text box color if the user clicks OK 
+            if (MyDialog.ShowDialog() == DialogResult.OK)
+                richTextBox1.SelectionColor = MyDialog.Color;
+        }
+
+        private void button10_Click_1(object sender, EventArgs e)
+        {
+            richTextBox1.SelectionBullet = true;
+        }
+
+
+        bool numbList = false;
+        private void button12_Click(object sender, EventArgs e)
+        {
+            string temptext = richTextBox1.SelectedText;
+
+            int SelectionStart = richTextBox1.SelectionStart;
+            int SelectionLength = richTextBox1.SelectionLength;
+
+            richTextBox1.SelectionStart = richTextBox1.GetFirstCharIndexOfCurrentLine();
+            richTextBox1.SelectionLength = 0;
+            richTextBox1.SelectedText = "1. ";
+
+            int j = 2;
+            for (int i = SelectionStart; i < SelectionStart + SelectionLength; i++)
+                if (richTextBox1.Text[i] == '\n')
+                {
+                    richTextBox1.SelectionStart = i + 1;
+                    richTextBox1.SelectionLength = 0;
+                    richTextBox1.SelectedText = j.ToString() + ". ";
+                    j++;
+                    SelectionLength += 3;
+                }
+
+
+
+        }
+
+        private void richTextBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            int tempNum;
+            if (e.KeyCode == Keys.Enter)
+                try
+                {
+                    if (char.IsDigit(richTextBox1.Text[richTextBox1.GetFirstCharIndexOfCurrentLine()]))
+                    {
+                        if (char.IsDigit(richTextBox1.Text[richTextBox1.GetFirstCharIndexOfCurrentLine() + 1]) && richTextBox1.Text[richTextBox1.GetFirstCharIndexOfCurrentLine() + 2] == '.')
+                            tempNum = int.Parse(richTextBox1.Text.Substring(richTextBox1.GetFirstCharIndexOfCurrentLine(), 2));
+                        else tempNum = int.Parse(richTextBox1.Text[richTextBox1.GetFirstCharIndexOfCurrentLine()].ToString());
+
+                        if (richTextBox1.Text[richTextBox1.GetFirstCharIndexOfCurrentLine() + 1] == '.' || (char.IsDigit(richTextBox1.Text[richTextBox1.GetFirstCharIndexOfCurrentLine() + 1]) && richTextBox1.Text[richTextBox1.GetFirstCharIndexOfCurrentLine() + 2] == '.'))
+                        {
+                            tempNum++;
+                            richTextBox1.SelectedText = "\r\n" + tempNum.ToString() + ". ";
+                            e.SuppressKeyPress = true;
+                        }
+                    }
+                }
+                catch { }
+        }
+
+        private void Save_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog saveFile1 = new SaveFileDialog();
+            saveFile1.DefaultExt = "*.rtf";
+            saveFile1.Filter = "RTF Files|*.rtf";
+            if (saveFile1.ShowDialog() == DialogResult.OK)
+                richTextBox1.SaveFile(saveFile1.FileName, RichTextBoxStreamType.RichText);
         }
     }
 }

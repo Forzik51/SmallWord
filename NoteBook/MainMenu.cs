@@ -33,9 +33,10 @@ namespace NoteBook
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            New newForm = new New(/*this.StartWork*/);
-            newForm.Show();
+            StartWork();
+
+            //New newForm = new New(/*this.StartWork*/);
+            //newForm.Show();
 
         }
     }
