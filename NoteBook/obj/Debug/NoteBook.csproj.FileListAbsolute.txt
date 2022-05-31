@@ -1,0 +1,82 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.DownLoad.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.MainMenu.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.New.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Exams\NoteBook\NoteBook\obj\Debug\NoteBook.WorkZone.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.DownLoad.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.MainMenu.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.New.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.WorkZone.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\SmallWord\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.SuggestedBindingRedirects.cache
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.DownLoad.resources
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.MainMenu.resources
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.New.resources
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.WorkZone.resources
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Buffers.dll
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Collections.Immutable.dll
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Memory.dll
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Numerics.Vectors.dll
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Reflection.Metadata.dll
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Buffers.xml
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Collections.Immutable.xml
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Memory.xml
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Numerics.Vectors.xml
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Reflection.Metadata.xml
+B:\Admin\home\NoteBook\NoteBook\NoteBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\Admin\home\NoteBook\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.CopyComplete
+B:\Admin\home\ex\NoteBook\bin\Debug\NoteBook.exe.config
+B:\Admin\home\ex\NoteBook\bin\Debug\NoteBook.exe
+B:\Admin\home\ex\NoteBook\bin\Debug\NoteBook.pdb
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Buffers.dll
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Collections.Immutable.dll
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Memory.dll
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Numerics.Vectors.dll
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Reflection.Metadata.dll
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Buffers.xml
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Collections.Immutable.xml
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Memory.xml
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Numerics.Vectors.xml
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Reflection.Metadata.xml
+B:\Admin\home\ex\NoteBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.csproj.SuggestedBindingRedirects.cache
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.DownLoad.resources
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.MainMenu.resources
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.New.resources
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.WorkZone.resources
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.csproj.CopyComplete
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.exe
+B:\Admin\home\ex\NoteBook\obj\Debug\NoteBook.pdb
